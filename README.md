@@ -9,6 +9,10 @@
 ```bash
 $ yarn
 ```
+<p>
+  Create *.env* file and fill it as in *.env.example*
+</p>
+
 
 ## Running the app
 
